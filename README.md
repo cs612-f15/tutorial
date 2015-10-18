@@ -1,18 +1,17 @@
+# Overview
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Updates to workspace
+node updated to v4.2.1
 
+```
+nvm install v4.2.1
+```
 
-Hi there! Welcome to Cloud9 IDE!
+npm updated to ??
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+```
+sudo npm install npm -g
+```
 
-Happy coding!
-The Cloud9 IDE team
+### other installs
+yo bower gulp babel (all global -g)
